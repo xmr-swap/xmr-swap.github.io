@@ -1,25 +1,3 @@
-# XMR Swap — Exchange Monero Cross-Chain Reference
+# Swap XMR
 
-> Exchange Monero (XMR) — a privacy-focused, non-EVM coin — for stablecoins and tokens on other chains, using atomic swaps or non-custodial instant exchange services.
-
-## Key Facts
-- XMR: native coin of the Monero blockchain, a standalone, non-EVM privacy network
-- Not an ERC-20 token — Ethereum wallets and same-chain DEXs do not hold XMR directly
-- Swap paths: atomic swap (wallet-to-wallet, non-custodial), instant exchange service, or CEX where listed
-- XMR↔EVM requires a cross-chain route, not a same-chain DEX trade
-- Costs: Monero network fee + exchange/service fee & spread + destination network fee
-- Some centralized exchanges have delisted/restricted privacy coins by jurisdiction; availability varies
-- Monero payments are private and not reversible once sent
-
-## Internal Sections & App Navigation
-- [What is swapping XMR?](#what)
-- [How swapping XMR works](#how)
-- [Monero network & non-EVM](#network)
-- [Routes & where to swap](#routes)
-- [Fees & time](#fees)
-- [Is swapping XMR safe?](#safety)
-- [FAQ](#faq)
-- [Open XMR Swap App](dashboard/index.html)
-
-## Disclaimer
-Independent page. Not affiliated with the Monero project or any exchange or swap service. Not financial advice.
+Swap XMR to USDT or USDC without an account. See where liquidity for Monero comes from, how to pick a route, confirmation times, and how to keep self-custody the entire way.
