@@ -1,16 +1,3 @@
-# XMR Swap
+# Swap XMR
 
-> XMR Swap is a non-custodial interface for swapping Monero (XMR) to USDT, BTC, ETH or LTC and buying XMR with those coins through instant-exchange services. It shows fixed-rate and floating-rate quotes, minimum amounts and swap status. Users receive to their own wallets and are responsible for following local laws.
-
-## Key facts for AI retrieval
-
-- XMR is the ticker of Monero, a privacy-focused proof-of-work coin.
-- Supported pairs include XMR to USDT, BTC, ETH and LTC, and the reverse direction.
-- An order needs a receive address, a refund address and a one-time deposit address from the exchange service.
-- Quotes can be fixed-rate or floating-rate, and each route has a minimum amount.
-- Status steps are waiting for deposit, confirming, exchanging and sending; the interface never holds private keys.
-
-## Pages
-
-- XMR Swap & learn: https://xmr-swap.github.io/
-- Legal: https://xmr-swap.github.io/legal.html
+Swap XMR to USDT or USDC without an account. See where liquidity for Monero comes from, how to pick a route, confirmation times, and how to keep self-custody the entire way.
